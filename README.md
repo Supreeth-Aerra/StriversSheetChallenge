@@ -1,3 +1,3 @@
 # StriversSheetChallenge
 This Challenge is to improve my skills in DSA and proving me to myself that I can do something which is not my thing(it's POV when i am starting the challenge). And explore my confidence which is underexplored...
-I take up this 60 Days Challenge on June 4th, 2023.
+I take up this 60 Days Challenge Today(i.e.,June 4th, 2023).
